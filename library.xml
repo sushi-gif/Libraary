@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+    <collection dewhy="000">
+        <book full_dewhy="015">
+            <isbn>9788850318483</isbn>
+            <title>Java 11: Guida allo sviluppo in ambienti Windows, macOS e GNU/Linux</title>
+            <ean>883929169931</ean>
+            <price>34.99</price>
+            <authors>
+                <author>Apogeo</author>
+            </authors>
+            <publisher>Apogeo Editore</publisher>
+            <audience_age>16+</audience_age>
+            <release_date>8/12/2015</release_date>
+            <studio>Apogeo Editore</studio>
+            <pages>302</pages>
+            <weight>453</weight>   
+            <rating>4.1</rating>
+            <genres>
+                <genre>Computer</genre>
+                <genre>Programmazione</genre>
+            </genres>
+            <language>italian</language>
+            <country>Italy</country>
+            <summary> Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let application developers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. </summary>
+        </book>
+        <book full_dewhy="016">
+            <isbn>9788850318261</isbn>
+            <title>Clean Architecture: Guida per diventare abili progettisti di architetture software</title>
+            <ean>883929169931</ean>
+            <price>24.99</price>
+            <authors>
+                <author>Apogeo</author>
+            </authors>
+            <publisher>Apogeo Editore</publisher>
+            <audience_age>16+</audience_age>
+            <release_date>16/04/2018</release_date>
+            <studio>Apogeo Editore</studio>
+            <pages>302</pages>
+            <weight>453</weight>   
+            <rating>4.9</rating>
+            <genres>
+                <genre>Computer</genre>
+                <genre>Programmazione</genre>
+            </genres>
+            <language>italian</language>
+            <country>Italy</country>
+            <summary> By applying universal rules of software architecture, you can dramatically improve developer productivity throughout the life of any software system. Now, building upon the success of his best-selling books Clean Code and The Clean Coder, legendary software craftsman Robert C. Martin . </summary>
+        </book>
+    </collection>
+    <collection dewhy="100">
+        <book full_dewhy="170">
+            <isbn>9788854124592</isbn>
+            <title>L'interpretazione dei sogni</title>
+            <ean>883929169931</ean>
+            <price>4.99</price>
+            <authors>
+                <author>Sigmund Freud</author>
+            </authors>
+            <publisher>Newton Compton Editor</publisher>
+            <audience_age>18+</audience_age>
+            <release_date>5/11/2010</release_date>
+            <studio>Newton Compton Editor</studio>
+            <pages>302</pages>
+            <weight>453</weight>   
+            <rating>3.9</rating>
+            <genres>
+                <genre>Psicologia</genre>
+                <genre>Filosofia</genre>
+                <genre>Etica</genre>
+            </genres>
+            <language>italian</language>
+            <country>Italy</country>
+            <summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dignissim ac nisi ac dapibus. In hac habitasse platea dictumst. Proin scelerisque justo eget tempor accumsan. Nulla non pellentesque sem, vitae auctor massa. Maecenas consectetur dolor et lectus blandit, sit amet condimentum ante efficitur. Curabitur et consequat velit. Fusce tincidunt ante nibh, ut porta est interdum at. Ut pulvinar ultricies posuere. Curabitur a lobortis felis, vitae commodo risus. </summary>
+        </book>
+    </collection>
+    <collection dewhy="200">
+        <book full_dewhy="290">
+            <isbn>9788867084333</isbn>
+            <title>Buddhismo. Religione senza religione</title>
+            <ean>883929169931</ean>
+            <price>21.99</price>
+            <authors>
+                <author>Alan Watts</author>
+            </authors>
+            <publisher>Edizioni Lindau</publisher>
+            <audience_age>18+</audience_age>
+            <release_date>5/11/2010</release_date>
+            <studio>Edizioni Lindau</studio>
+            <pages>109</pages>
+            <weight>109</weight>   
+            <rating>5</rating>
+            <genres>
+                <genre>Religione</genre>
+                <genre>Filosofia</genre>
+            </genres>
+            <language>italian</language>
+            <country>Italy</country>
+            <summary> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dignissim ac nisi ac dapibus. In hac habitasse platea dictumst. Proin scelerisque justo eget tempor accumsan. Nulla non pellentesque sem, vitae auctor massa. Maecenas consectetur dolor et lectus blandit, sit amet condimentum ante efficitur. Curabitur et consequat velit. Fusce tincidunt ante nibh, ut porta est interdum at. Ut pulvinar ultricies posuere. Curabitur a lobortis felis, vitae commodo risus.</summary>
+        </book>
+    </collection>
+    <collection dewhy="300">
+        <book full_dewhy="321">
+            <isbn>9788899301453</isbn>
+            <title>Politica italiana e Nuovo Ordine Mondiale</title>
+            <ean>883929169931</ean>
+            <price>40.99</price>
+            <authors>
+                <author>Gabriele Sannino</author>
+            </authors>
+            <publisher>Fuoco Edizioni</publisher>
+            <audience_age>18+</audience_age>
+            <release_date>5/11/2010</release_date>
+            <studio>Fuoco Edizioni</studio>
+            <pages>254</pages>
+            <weight>179</weight>   
+            <rating>3.4</rating>
+            <genres>
+                <genre>Politica</genre>
+            </genres>
+            <language>italian</language>
+            <country>Italy</country>
+            <summary> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dignissim ac nisi ac dapibus. In hac habitasse platea dictumst. Proin scelerisque justo eget tempor accumsan. Nulla non pellentesque sem, vitae auctor massa. Maecenas consectetur dolor et lectus blandit, sit amet condimentum ante efficitur. Curabitur et consequat velit. Fusce tincidunt ante nibh, ut porta est interdum at. Ut pulvinar ultricies posuere. Curabitur a lobortis felis, vitae commodo risus.</summary>
+        </book>
+    </collection>
+    <collection dewhy="400">
+        <book full_dewhy="494">
+            <isbn>9781462901036</isbn>
+            <title>Korean for Dummies</title>
+            <ean>883929169931</ean>
+            <price>10.99</price>
+            <authors>
+                <author>Korean Nunny</author>
+            </authors>
+            <publisher>Tuttle Publishing</publisher>
+            <audience_age>13+</audience_age>
+            <release_date>10/05/2010</release_date>
+            <studio>Tuttle Publishing</studio>
+            <pages>176</pages>
+            <weight>179</weight>   
+            <rating>4.4</rating>
+            <genres>
+                <genre>Lingua</genre>
+            </genres>
+            <language>italian</language>
+            <country>Italy</country>
+            <summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dignissim ac nisi ac dapibus. In hac habitasse platea dictumst. Proin scelerisque justo eget tempor accumsan. Nulla non pellentesque sem, vitae auctor massa. Maecenas consectetur dolor et lectus blandit, sit amet condimentum ante efficitur. Curabitur et consequat velit. Fusce tincidunt ante nibh, ut porta est interdum at. Ut pulvinar ultricies posuere. Curabitur a lobortis felis, vitae commodo risus. </summary>
+        </book>
+    </collection>
+    <collection dewhy="500">
+        <book full_dewhy="511">
+            <isbn>9788865378304</isbn>
+            <title>Sette lezioni di fisica</title>
+            <ean>883929169931</ean>
+            <price>20.92</price>
+            <authors>
+                <author>Leo Sgulli</author>
+            </authors>
+            <publisher>Edizioni del Faro</publisher>
+            <audience_age>18+</audience_age>
+            <release_date>10/05/2010</release_date>
+            <studio>Edizioni del Faro</studio>
+            <pages>267</pages>
+            <weight>179</weight>   
+            <rating>4.4</rating>
+            <genres>
+                <genre>Scienza</genre>
+                <genre>Fisica</genre>
+            </genres>
+            <language>italian</language>
+            <country>Italy</country>
+            <summary> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dignissim ac nisi ac dapibus. In hac habitasse platea dictumst. Proin scelerisque justo eget tempor accumsan. Nulla non pellentesque sem, vitae auctor massa. Maecenas consectetur dolor et lectus blandit, sit amet condimentum ante efficitur. Curabitur et consequat velit. Fusce tincidunt ante nibh, ut porta est interdum at. Ut pulvinar ultricies posuere. Curabitur a lobortis felis, vitae commodo risus.</summary>
+        </book>
+    </collection>
+    <!--<collection dewhy="600">
+        useless since we have no child
+    </collection>-->
+    <!--<collection dewhy="700">
+        useless since we have no child
+    </collection>-->
+    <collection dewhy="800">
+        <book full_dewhy="851">
+            <isbn>9781781101582</isbn>
+            <title>Harry Potter and the Philosopher Stone</title>
+            <ean>883929169931</ean>
+            <price>8.99</price>
+            <authors>
+                <author>J.K. Rowling</author>
+            </authors>
+            <publisher>Pottermore Publishing</publisher>
+            <audience_age> 9-18 </audience_age>
+            <release_date>8/12/2015</release_date>
+            <studio>Pottermore Publishing</studio>
+            <pages>302</pages>
+            <weight>148</weight>   
+            <rating>4.8</rating>
+            <genres>
+                <genre>Action</genre>
+                <genre>Fantasy</genre>
+            </genres>
+            <language>italian</language>
+            <country> Italy </country>
+            <summary> Harry Potter has been living a difficult life, constantly abused by his surly and cold aunt and uncle, Vernon and Petunia Dursley and bullied by their spoiled son Dudley since the death of his parents ten years prior. His life changes on the day of his eleventh birthday when he receives a letter of acceptance into Hogwarts School of Witchcraft and Wizardry, delivered by a half-giant named Rubeus Hagrid after previous letters had been destroyed by Vernon and Petunia. Hagrid details Harry's past as the son of James and Lily Potter, who were a wizard and witch respectively, and how they were murdered by the most evil and powerful dark wizard of all time, Lord Voldemort, which resulted in the one-year-old Harry being sent to live with his aunt and uncle. Voldemort was not only unable to kill Harry, but his powers were also destroyed in the attempt, forcing him into exile and sparking Harry's immense fame among the magical community.</summary>
+        </book>
+        <book full_dewhy="831">
+            <isbn>9788858630020</isbn>
+            <title>The Picture Of Dorian Gray</title>
+            <ean>883929169931</ean>
+            <price>8.99</price>
+            <authors>
+                <author>Oscar Wilde</author>
+            </authors>
+            <publisher>Blur</publisher>
+            <audience_age> 18-40 </audience_age>
+            <release_date>22/05/2012</release_date>
+            <studio>Blur</studio>
+            <pages>256</pages>
+            <weight>121</weight>   
+            <rating>4.3</rating>
+            <genres>
+                <genre>Classic</genre>
+            </genres>
+            <language>Inglese</language>
+            <country> Italy </country>
+            <summary> The Picture of Dorian Gray begins on a beautiful summer day in Victorian England, where Lord Henry Wotton, an opinionated man, is observing the sensitive artist Basil Hallward painting the portrait of Dorian Gray, a handsome young man who is Basil's ultimate muse. While sitting for the painting, Dorian listens to Lord Henry espousing his hedonistic world view and begins to think that beauty is the only aspect of life worth pursuing, prompting Dorian to wish that his portrait would age instead of himself.</summary>
+        </book>
+        <book full_dewhy="831">
+            <isbn>9788858630020</isbn>
+            <title>La ragazza dagli occhi di carta</title>
+            <ean>883929169931</ean>
+            <price>8.99</price>
+            <authors>
+                <author>Ilaria Tuti</author>
+            </authors>
+            <publisher>Associazione Culturale Nero Cafè</publisher>
+            <audience_age> 18-40 </audience_age>
+            <release_date>22/05/2012</release_date>
+            <studio>Associazione Culturale Nero Cafè</studio>
+            <pages>223</pages>
+            <weight>121</weight>   
+            <rating>2.3</rating>
+            <genres>
+                <genre>Classic</genre>
+                <genre>Giallo</genre>
+            </genres>
+            <language>italian</language>
+            <country> Italy </country>
+            <summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dignissim ac nisi ac dapibus. In hac habitasse platea dictumst. Proin scelerisque justo eget tempor accumsan. Nulla non pellentesque sem, vitae auctor massa. Maecenas consectetur dolor et lectus blandit, sit amet condimentum ante efficitur. Curabitur et consequat velit. Fusce tincidunt ante nibh, ut porta est interdum at. Ut pulvinar ultricies posuere. Curabitur a lobortis felis, vitae commodo risus.</summary>
+        </book>
+    </collection>
+    <collection dewhy="900">
+        <book full_dewhy="955">
+            <isbn>9788858429969</isbn>
+            <title>Dall'Asia al mondo</title>
+            <ean>883929169931</ean>
+            <price>20.92</price>
+            <authors>
+                <author>Pierre Grosser</author>
+            </authors>
+            <publisher>Giulio Einaudi Editore</publisher>
+            <audience_age>18+</audience_age>
+            <release_date>10/05/2010</release_date>
+            <studio>Giulio Einaudi Editore</studio>
+            <pages>267</pages>
+            <weight>179</weight>   
+            <rating>4.4</rating>
+            <genres>
+                <genre>Storia</genre>
+                <genre>Geografia</genre>
+            </genres>
+            <language>italian</language>
+            <country>Italy</country>
+            <summary> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dignissim ac nisi ac dapibus. In hac habitasse platea dictumst. Proin scelerisque justo eget tempor accumsan. Nulla non pellentesque sem, vitae auctor massa. Maecenas consectetur dolor et lectus blandit, sit amet condimentum ante efficitur. Curabitur et consequat velit. Fusce tincidunt ante nibh, ut porta est interdum at. Ut pulvinar ultricies posuere. Curabitur a lobortis felis, vitae commodo risus.</summary>
+        </book>
+    </collection>
+</library>
