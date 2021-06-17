@@ -1,0 +1,45 @@
+<resources>
+    <!-- App Structure Related Strings -->
+    <string name="app_name">Libraary</string>
+    <string name="app_version">Snapshot 1.0</string>
+
+    <!-- Activities Related Strings -->
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_this_book">Add this book</string>
+    <string name="search_for_a_book">Search for a book</string>
+    <string name="recommended_books_for_you">Most Rated Books</string>
+    <string name="weekly_most_rated_books">For you</string>
+    <string name="latest_books">Latest books</string>
+    <string name="book_title_not_found">Book Title not found</string>
+    <string name="_0_pages_author_publisher">0 pages | Author | Publisher</string>
+    <string name="buy_for_0">Buy for 0$</string>
+    <string name="summary">About the book</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque fringilla cursus orci et laoreet. Morbi commodo leo eget mi pulvinar accumsan. Ut pulvinar ornare diam, vel congue enim fermentum eu. Mauris facilisis ornare sem sed dapibus. Phasellus quis arcu dignissim, sollicitudin lorem ut, consequat erat. Morbi egestas nec nibh at tempor. Cras dignissim lorem justo, et pellentesque risus lobortis sit amet.</string>
+    <string name="title_activity_book_cover_view">BookCoverViewActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="isbn">ISBN:</string>
+    <string name="ean">EAN:</string>
+    <string name="for_age">For age:</string>
+    <string name="genres">Genres: </string>
+    <string name="weight">Weight :</string>
+    <string name="star">⭐</string>
+    <string name="shop">Shop</string>
+    <string name="see_all">See All</string>
+    <string name="added_books">Added books</string>
+    <string name="discover_more">Discover more!</string>
+    <string name="language">Language: </string>
+
+    <!-- Home layout Related Strings -->
+
+    <!-- Settings layout Related Strings -->
+</resources>

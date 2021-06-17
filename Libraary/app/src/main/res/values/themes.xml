@@ -1,0 +1,54 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Libraary" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+        <!-- Primary brand color. -->
+        <!--<item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>-->
+
+        <!-- Secondary brand color. -->
+        <!--<item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>-->
+
+        <!-- Status bar color. -->
+        <item name="fontFamily">@font/miriamlibre</item>
+        <item name="android:statusBarColor">#fff</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="bottomNavigationStyle">@style/BottomBarDark</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.Libraary.f2Bar" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="fontFamily">@font/miriamlibre</item>
+        <item name="android:statusBarColor">#f2f2f2</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="BottomBarDark">
+        <item name="itemTextColor">@drawable/bottom_bar_selector</item>
+        <item name="itemIconTint">@drawable/bottom_bar_selector</item>
+        <item name="labelVisibilityMode">labeled</item>
+        <item name="fontWeight">800</item>
+    </style>
+
+
+    <style name="title">
+        <item name="android:layout_marginTop">2dp</item>
+        <item name="android:layout_marginBottom">12dp</item>
+        <item name="android:layout_marginStart">12dp</item>
+        <item name="android:layout_marginEnd">12dp</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="Theme.Libraary.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Libraary.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Libraary.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
